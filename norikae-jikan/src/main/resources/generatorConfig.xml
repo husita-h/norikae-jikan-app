@@ -16,7 +16,7 @@
         <!--  接続先のURL,ユーザーID,パスワードを指定する  -->
         <jdbcConnection
                 driverClass="com.mysql.jdbc.Driver"
-                connectionURL="jdbc:mysql://127.0.0.1:3466/norikae-jikan"
+                connectionURL="jdbc:mysql://127.0.0.1:3306/norikae-jikan"
                 userId="root"
                 password="mysql">
             <!--  MySQL8系を使用している場合は指定必須  -->
