@@ -44,3 +44,5 @@
         </table>
     </context>
 </generatorConfiguration>
+
+ <!-- https://mybatis.org/generator/configreference/xmlconfig.html -->
